@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 write some text
  fixed
-=======
-write some text
- fixed
->>>>>>> secondary
