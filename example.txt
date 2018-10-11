@@ -1,2 +1,7 @@
-write some textkjearbnk;d
-but different text this time
+<<<<<<< HEAD
+write some text
+ fixed
+=======
+write some text
+ fixed
+>>>>>>> secondary
